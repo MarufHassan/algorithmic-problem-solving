@@ -1,14 +1,16 @@
 # Data Structure and Algorithmic Problems
 
-This repo consists of my solution of algorithm and data structures problems in different online judge platforms i.e LeetCode, Hackerrank, UVA, CodeForces, GFG.
+This repository consists of my solution of algorithm and data structures problems in different online judge platforms i.e LeetCode, Hackerrank, UVA, CodeForces, GFG. 80% of the problems have been solved using Java, rest are C and C++.
 
-Although I solved many more problems in these platforms, I only have these solutions now. 
+Although I solved many more problems in these platforms, I only documented these solutions. 
 
 ## List of problems
 
-## Geek for Geek (GFG)
+All the problems are categorized by the respective online judge. You can access the problem and the solution directly from the link. 
 
-Practice problems from Geek for Geek in Java. All the codes are tested using online-judge.
+## Geeks for Geeks (GFG)
+
+Practice problems from Geek for Geek in Java. All the codes are tested in online-judge. Some problems are not solved yet. 
 
 - [ ] Mathematical and Algorithmic Puzzle
 	- [ ] Easy
@@ -83,7 +85,7 @@ Practice problems from Geek for Geek in Java. All the codes are tested using onl
 
 ## LeetCode
 
-Solved problems from Leetcode using Java. All the codes are tested using online-judge.
+Solved problems from Leetcode using Java. All the codes are tested in online-judge.
 
 ## Easy
 
@@ -372,7 +374,7 @@ Solved problems from Leetcode using Java. All the codes are tested using online-
 
 ## Hackerrank
 
-Solved problems from Hackerrank using Java. All the codes are tested using online-judge.
+Solved problems from Hackerrank using Java. All the codes are tested in online-judge.
 
 ## Easy
 
@@ -433,7 +435,7 @@ Solved problems from Hackerrank using Java. All the codes are tested using onlin
 
 ## UVA Online Judge
 
-Solved problems from UVA using C, C++, Java. All the codes are tested using online-judge.
+Solved problems from UVA using C, C++, Java. All the codes are tested in online-judge.
 
 | #    | Title                                    | Tag                                      |
 | :--- | :--------------------------------------- | :--------------------------------------- |
@@ -592,7 +594,7 @@ Solved problems from UVA using C, C++, Java. All the codes are tested using onli
 
 ## Codeforces
 
-Solved problems from Codeforces using Java. All the codes are tested using online-judge.
+Solved problems from Codeforces using Java. All the codes are tested in online-judge.
 
 | #    | Title                                    | Tag                                      |
 | :--- | :--------------------------------------- | :--------------------------------------- |
